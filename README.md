@@ -1,4 +1,4 @@
-PROJECT 3 - SUBREDDIT NLP ANALYSIS
+SUBREDDIT NLP ANALYSIS
 =
 ## r/Politics and r/Conservative Text Predictive Modeling
 
